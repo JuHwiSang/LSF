@@ -9,8 +9,11 @@ python3 run.py -u TARGET -m GET -t 2
 ```
 
 -u : Enter attack site URL
+
 -m : Attack Site Method "Post" or "Get” (default=”GET”)
+
 -gm : Attack Site Get method value
+
 -t : Delay seconds to test (default=1)
 
 # Produce
