@@ -3,6 +3,5 @@ pyfiglet
 tqdm
 halo
 pandas
-requests
 pyfiglet
 rich
